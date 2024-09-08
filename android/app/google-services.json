@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396377642704",
+    "project_id": "kidzke24",
+    "storage_bucket": "kidzke24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396377642704:android:8cb72e24edb6530ea1b0d5",
+        "android_client_info": {
+          "package_name": "com.example.zubi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396377642704-kfseqbh36936lb426q3jk2prnkqa6ale.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43jyWGxPndAKaOlfiHD7wJFi6fFPVvMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396377642704-kfseqbh36936lb426q3jk2prnkqa6ale.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

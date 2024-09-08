@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>396377642704-gl9540cjgbr1gfqvss7hrbmefdkh9alu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.396377642704-gl9540cjgbr1gfqvss7hrbmefdkh9alu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>396377642704-monugdcu37bk98l7tnkgrd6rpnl7htci.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSLaIT_OaYo5L2Psza4-znbX7We4VHGHE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>396377642704</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zubi</string>
+	<key>PROJECT_ID</key>
+	<string>kidzke24</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kidzke24.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:396377642704:ios:ed44e810c5cf4508a1b0d5</string>
+</dict>
+</plist>
